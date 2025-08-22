@@ -1,7 +1,20 @@
 # Fuzzy Farms
 **Intro**
 
-This is a medium level Farm Prototype of a Unreal Engine v4 Game, done in only 2 weeks using ONLY unreals blueprints. I was given a challange in a college assignment to create a farming game using a design requirement sheet they gave me for resources. I also had to create a 3d model rig it and then implement in my game as a main mechanic which this prototype was mainly showing the proper implementation of my 3d model as well as texturing. This prototype includes: AI, NavMeshes, Custom Blender Models, Highly detailed blueprints, Spawning Mechanics, and basic inventory. 
+This is a medium level Farm Prototype of a Unreal Engine v4 Game, done in only 2 weeks using ONLY unreals blueprints. I was given a challange in a college assignment to create a farming game using a design requirement sheet they gave me for resources. I also had to create a 3d model rig it and then implement in my game as a main mechanic which this prototype was mainly showing the proper implementation of my 3d model as well as texturing. This prototype includes: AI, NavMeshes, Custom Blender Models, Highly detailed blueprints, Spawning Mechanics, and basic inventory. The prototype is mainly to show off the spawning feature and unique varients of spawned animals such as them being all different colors. This could be used in a rougelite game or a game with procedual generation. 
+
+---
+**Preview Images**
+
+<img width="1411" height="663" alt="image" src="https://github.com/user-attachments/assets/e7754ebe-ef58-4b51-9cad-fc62825e77a2" />
+
+<img width="1315" height="710" alt="image" src="https://github.com/user-attachments/assets/7ef375f9-c1b0-4c3d-958e-243c0289efe0" />
+
+
+<img width="1003" height="716" alt="image" src="https://github.com/user-attachments/assets/be1a5980-5fa1-47a9-b78e-86c70c06aa6a" />
+
+<img width="1058" height="724" alt="image" src="https://github.com/user-attachments/assets/43897e5a-644a-471b-844d-a014654584d9" />
+
 
 ---
 
